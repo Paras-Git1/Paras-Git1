@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋</h1>
-<img src="https://github.com/Paras-Git1/Paras-Git1/blob/main/GithubProfile.jpg" alt="Alt Text">
+<img src="https://github.com/Paras-Git1/Paras-Git1/blob/main/Githubpro.jpg" alt="Alt Text">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
